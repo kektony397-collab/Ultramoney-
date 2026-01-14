@@ -104,9 +104,9 @@ function App() {
                 )}
                 
                 {/* Footer Attribution */}
-                <div className="text-center text-[10px] text-neutral-600 mt-8 mb-4">
+                <footer className="text-center text-[10px] text-neutral-600 mt-8 mb-4">
                     created by Yash K Pathak
-                </div>
+                </footer>
             </main>
 
             {/* Nav Dock */}
